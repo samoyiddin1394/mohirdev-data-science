@@ -1,0 +1,23 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data and outputs (download data from the links in each notebook)
+data/
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.pkl
+*.joblib
+submission*.csv
+results/
+runs/
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
